@@ -1,0 +1,216 @@
+*{
+    margin: 0%;
+    padding: 0%;
+ }
+body{
+    
+    font-family: 'Barlow', sans-serif;
+
+}
+.section-one{
+
+    
+     background-image: url(images/donation13.jpg);
+    height:100vh;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover; 
+    margin-bottom: 110px;
+     
+
+}
+.heading{
+    font-size: 50px;
+    font-weight: bold;
+}
+.help-hand{
+    text-align: center;
+    margin-bottom: 30px; 
+    margin-top: 20px;
+    font-size: 30px;
+   
+}
+.Button{
+    font-size: 30px;
+   background-image: linear-gradient( orange , red);
+   text-decoration: none;
+   color: azure;
+    margin-top: 30px;
+   padding: 10px 5px;
+   margin-bottom: 30px;
+
+  
+}
+
+.top-banner{
+
+    text-align: center;
+    padding-top: 550px;
+    color: white;
+    
+    
+}
+
+/* close section-one */
+
+
+.middel-banner{
+    text-align: center;
+    padding-top: 550px;
+    margin: 20px ;
+}
+.donate{
+    text-align: center;
+}
+.amout{
+    width: 125px;
+    height: 135px;
+    background-color: gainsboro;
+    text-align: center;
+    padding-top: 80px;
+    margin: 30px;
+    margin-left: 50px;
+    
+}
+.donet-amout{
+    text-align: center; 
+    display: flex;
+    
+}
+.middle-2{
+    margin-left: 500px;
+}
+.doller{
+    color: gray;
+}
+.dolller-2{
+    color: red;
+   
+}
+.amout-2{
+    border: 2px solid orangered;
+    border-radius: 2px;
+}
+.hovering:hover{
+     color: chocolate;
+     margin: -20px;
+     transition: 8ms;
+     cursor: pointer;
+}
+.section-two{
+    text-align: center;
+}
+.other{
+    margin-bottom: 30px;
+}
+hr{
+    margin-bottom: 30px;
+}
+
+   /* close section -two */
+   .plan{
+    font-size: 50px;
+    font-weight: bold;
+   }
+   .section-three{
+    text-align: center;
+    margin-top: 130px;
+    /* margin-left: 500px; */
+    margin-bottom: 100px; 
+   }
+   .img-1{
+    width: 50px;
+    height: 50px;
+   }
+   .donation{
+    width: 350px;
+    height: 360px;
+    text-align: justify;
+    background-color:rgb(155, 183, 219) ;
+    padding: 10px 15px;
+    margin-left: 110px;
+   
+   }
+   .donation-3{
+    width: 350px;
+    height: 360px;
+    text-align: justify;
+    background-color:rgb(189, 219, 155) ;
+    padding: 10px 15px;
+    margin-left: 110px;
+   }
+   .donation-2{
+    width: 350px;
+    height: 360px;
+    text-align: justify;
+    background-color:rgb(155, 219, 198) ;
+    padding: 10px 15px;
+    margin-left: 110px;
+   }
+   .blood{
+    text-align: center;
+    margin-bottom: 10px;
+   }
+   .hand{
+    margin-bottom: 30px; 
+    margin-top: 20px;
+    font-size: 30px;
+   }
+   .population{
+    display: flex;
+    margin-bottom: 30px;
+   }
+   .info{
+    width: 50%;
+    margin-left: 100px;
+   }
+   .explan{
+    width: 50%;
+    margin-bottom: 40px;
+    text-align: justify;
+    
+   }
+  
+   
+   .added-img{
+    width: 50%;
+   }
+
+   .section-four{
+    text-align: center;
+    margin-bottom: 100px;
+   }
+   .form{
+    background-color: rgba(255, 244, 214, 1);
+    width: 800px;
+    height: 100px;
+    padding-top: 80px;
+    margin-left: 720px;
+   }
+   .email{
+    background-color: rgb(194, 191, 191);
+    width: 300px;
+    height: 50px;
+   font-size: 20px;
+   }
+   .Button-01{
+    font-size: 30px;
+   background-image: linear-gradient( orange , red);
+   text-decoration: none;
+   color: azure;
+    margin-top: 40px;
+   padding: 10px 5px;
+   margin-bottom: 30px;
+   }
+   .section-five{
+    text-align: center;
+    background-color: black;
+    padding: 30px 30px;
+   }
+   .foter-heading{
+    color: rgba(255, 89, 89, 1);
+   }
+   .section-five p{
+    color: white;
+   }
